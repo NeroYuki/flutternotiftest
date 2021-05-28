@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480232872812",
+    "project_id": "fir-notification-test-93aa2",
+    "storage_bucket": "fir-notification-test-93aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480232872812:android:05bd00f8140ace274db149",
+        "android_client_info": {
+          "package_name": "com.example.flutternotiftest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480232872812-2vahplkadm0c3k1fifkg8h2bbiqf70eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXDdwqHBOTXLTL4rPyGQ32mfWvnN4YjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480232872812-2vahplkadm0c3k1fifkg8h2bbiqf70eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
